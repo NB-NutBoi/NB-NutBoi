@@ -10,3 +10,7 @@ Things i'm working on at the moment:
 Working on Amnesia: Remodded, alone.<br />
 Working on 2 undisclosed FNF mods.<br />
 Working on an Amnesia: TDD Custom Story.<br />
+
+Things i've worked on previously:
+
+haven't released shite yet lol
