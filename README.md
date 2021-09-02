@@ -13,4 +13,4 @@ Working on an Amnesia: TDD Custom Story.<br />
 
 Things i've worked on previously:
 
-haven't released shite yet lol
+haven't fully finished shite yet lol
