@@ -9,5 +9,5 @@ I'm not really working on something i want to publically announce just yet.
 
 Things i've worked on previously:
 
-Amnesia: Remodded
-Custom 3D & 2D game engine (TBN)
+- Amnesia: Remodded
+- Custom 3D & 2D game engine (TBN)
