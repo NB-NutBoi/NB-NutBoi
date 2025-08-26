@@ -6,8 +6,6 @@ If you have found this page, it means you are interested in me or what i do in r
 - I am very fluent in english, but it is not my first language.
 - I have no idea what i'm doing please send help.
 - P.S. Specifically, Psychological help.
-- Donuts are overrated.
-- HPL2 Hates all. No exceptions.
 
 ### I AM:
 Not working on anything i'm ready to publicly announce just yet.
