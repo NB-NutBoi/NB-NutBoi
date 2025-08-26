@@ -1,13 +1,20 @@
-Hi! if you have found this page, it means you are interested in me or what i do, if so, please note:
+Hi! I'm NutBoi. (Long story, Nut as in peanut. dont be weird.)<br>
+if you have found this page, it means you are interested in me or what i do, if so, please note:
 
+- 
 - I have no idea what i'm doing please send help.
-- Psychological help.
+- P.S. Specifically Psychological help.
 - Donuts are overrated.
 - HPL2 Hates all. No exceptions.
 
-I'm not really working on something i want to publically announce just yet.
+I AM:<br>
+Not working on anything i'm ready to publicly announce just yet.
 
-Things i've worked on previously:
+I HAVE:<br>
+Worked on multiple projects previously:
 
-- Amnesia: Remodded
+- Amnesia: Remodded (C++)
 - Custom 3D & 2D game engine (TBN)
+- Game Engine Tooling and toolkits (Haxe/C++)
+- A small number of minecraft mods (Java)
+- Helped HPL2 mods with coding and assets (AS)
