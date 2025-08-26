@@ -1,9 +1,10 @@
 Hi! I'm NutBoi. (Long story, Nut as in peanut. dont be weird.)<br>
 if you have found this page, it means you are interested in me or what i do, if so, please note:
 
-- 
+- I've been coding for around 10 years as of writing (since 2015)
+- I am proficient in C++, C#, Java, AngelScript, Haxe, And somewhat C by extension, but i'm capable and willing of learning any other.
 - I have no idea what i'm doing please send help.
-- P.S. Specifically Psychological help.
+- P.S. Specifically, Psychological help.
 - Donuts are overrated.
 - HPL2 Hates all. No exceptions.
 
