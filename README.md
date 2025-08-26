@@ -9,4 +9,5 @@ I'm not really working on something i want to publically announce just yet.
 
 Things i've worked on previously:
 
-haven't fully finished shit yet lol (perfectionism is a curse)
+Amnesia: Remodded
+Custom 3D & 2D game engine (TBN)
