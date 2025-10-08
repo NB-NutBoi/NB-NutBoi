@@ -28,9 +28,10 @@ Listed below are the languages and tools i'm trained with and I use on the regul
 
 ## I AM:
 - Working on a custom 3D & 2D game engine (TBN)
+- Working on Amnesia: Remodded 2.0
 
 ## I HAVE:
-- Made, and currently am maintaining: Amnesia: Remodded (C++)
+- Made, and published: Amnesia: Remodded 1.0 (C++)
 - Made and worked with game engine Tooling and toolkits (Haxe/C++)
 - Made a small number of minecraft mods, original and contributions (Java)
 - Helped several HPL2 mods with coding and assets (AS, Blender/Maya/Photoshop)
