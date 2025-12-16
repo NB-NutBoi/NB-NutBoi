@@ -28,7 +28,7 @@ Listed below are the languages and tools i'm trained with and I use on the regul
 
 ## I AM:
 - Working on a custom 3D & 2D game engine (TBN)
-- Working on Amnesia: Remodded 2.0
+- Working on Amnesia: Remodded 2.0+
 
 ## I HAVE:
 - Made, and published: Amnesia: Remodded 1.0 (C++)
