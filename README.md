@@ -4,7 +4,7 @@ If you have found this page, it means you are interested in me or what i do in r
 If so, please note:
 
 - I've been coding for around 10 years as of writing. (since 2015)
-- I am proficient in C++, C#, Java, AngelScript, Haxe, And somewhat C by extension, but i'm capable and willing to learnin any other.
+- I am proficient in C++, C#, Java, AngelScript, Haxe, And somewhat C by extension, but i'm capable and willing to learn any other.
 - I am very fluent in english, but it is not my first language.
 - I have no idea what i'm doing please send help.
 - P.S. Specifically, Psychological help.
